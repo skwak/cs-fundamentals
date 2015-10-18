@@ -16,10 +16,7 @@ namespace kalacademystack8
 
 			Console.WriteLine ("1st stack in the beginning...");
 
-			foreach (int i in stack) {
-				Console.WriteLine (i);
-			}
-
+			foreach (int i in stack) Console.WriteLine(i);
 
 			var otherStack = new Stack<int> ();
 
@@ -60,10 +57,7 @@ namespace kalacademystack8
 
 			Console.WriteLine ("1st stack in the end...");
 
-			foreach (int i in stack) {
-				Console.WriteLine (i);
-			}
-
+			foreach (int i in stack) Console.WriteLine (i);
 
 
 		}
