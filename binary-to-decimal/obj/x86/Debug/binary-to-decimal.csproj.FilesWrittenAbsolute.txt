@@ -1,0 +1,5 @@
+/Users/stephaniekwak/kal-academy/binary-to-decimal/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/stephaniekwak/kal-academy/binary-to-decimal/bin/Debug/binary-to-decimal.exe.mdb
+/Users/stephaniekwak/kal-academy/binary-to-decimal/bin/Debug/binary-to-decimal.exe
+/Users/stephaniekwak/kal-academy/binary-to-decimal/obj/x86/Debug/binary-to-decimal.exe
+/Users/stephaniekwak/kal-academy/binary-to-decimal/obj/x86/Debug/binary-to-decimal.exe.mdb
