@@ -1,5 +1,0 @@
-/Users/stephaniekwak/kal-academy/kal-academy-stack-8/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/stephaniekwak/kal-academy/kal-academy-stack-8/bin/Debug/kal-academy-stack-8.exe.mdb
-/Users/stephaniekwak/kal-academy/kal-academy-stack-8/bin/Debug/kal-academy-stack-8.exe
-/Users/stephaniekwak/kal-academy/kal-academy-stack-8/obj/x86/Debug/kal-academy-stack-8.exe
-/Users/stephaniekwak/kal-academy/kal-academy-stack-8/obj/x86/Debug/kal-academy-stack-8.exe.mdb
